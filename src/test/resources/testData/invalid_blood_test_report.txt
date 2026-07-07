@@ -1,0 +1,23 @@
+Patient Name: Sample Patient
+Age: 32 years
+Gender: Female
+Report Date: 01-Feb-2026
+Blood Test Results
+Test
+Result
+Hemoglobin
+11.2 g/dL
+Normal Range
+12.0 – 15.5 g/dL
+WBC Count
+6,200 /µL
+4,000 – 11,000 /µL
+Platelet Count 1.45 lakh /µL 1.5 – 4.5 lakh /µL
+RBC Count
+4.1 million/µL 4.2 – 5.4 million/µL
+Medical Conditions
+Mild anemia detected based on low hemoglobin and platelet count. No signs of infection or serious
+hematological disorder.
+Abnormal Values- Hemoglobin slightly below normal range- Platelet count marginally low
+Recommendations- Increase iron-rich foods (spinach, legumes, dates)- Consider iron supplements after consulting physician- Repeat CBC test after 3 months- Maintain balanced diet and hydration
+This report is computer generated and does not require a signature
