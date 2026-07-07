@@ -26,7 +26,6 @@ import io.qameta.allure.Allure;
 public class WorkOutStepDef {
 
 	private WebDriver driver;
-	private String appURL = null;
 
 
 	WorkOutPage workOutPage;
