@@ -1,10 +1,10 @@
-Overview
+**Overview**
 HerBalance is a women’s health app that analyzes lab reports and tracks menstrual and medical conditions.
 It provides personalized weight management plans, diet suggestions, and exercise logging tailored to each user.
 With advanced health metrics and premium support, it empowers women to visualize progress and take control of their wellness.
 
 
-Key Features
+**Key Features**
 Unlimited Blood Work Analysis
 Advanced insights from all your lab reports, helping you understand your health metrics in detail.
 
@@ -34,10 +34,10 @@ Access Premium Support
 Priority assistance is available for troubleshooting, guidance, or health-related queries.
 Ensures users always have help when they need it.
 
-Tech Stack
+**Tech Stack**
 BDD Framework: Java + Selenium
 
-Reporting Tools:
+**Reporting Tools:**
 Allure Reports
 Cucumber Reports
 ChainTest Reports
