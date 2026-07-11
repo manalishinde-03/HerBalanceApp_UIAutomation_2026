@@ -52,9 +52,7 @@ public class SubScriptionMgm {
 	        return By.xpath("//button[.//span[contains(text(), '" + username + "')]]");
 	    }
 
-	    // ==========================================
-	    //                METHODS
-	    // ==========================================
+
 
 	    // --- Navigation & Profile Actions ---
 
